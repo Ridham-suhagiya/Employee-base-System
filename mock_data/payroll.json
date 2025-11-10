@@ -1,0 +1,26 @@
+[
+    {
+        "employee_id": "e101",
+        "name": "Alice Smith",
+        "department": "Engineering",
+        "salary": 90000,
+        "bonus": 10000,
+        "deductions": 5000
+    },
+    {
+        "employee_id": "e102",
+        "name": "Bob Johnson",
+        "department": "Sales",
+        "salary": 75000,
+        "bonus": 15000,
+        "deductions": 3500
+    },
+    {
+        "employee_id": "e103",
+        "name": "Charlie Lee",
+        "department": "Engineering",
+        "salary": 85000,
+        "bonus": 8000,
+        "deductions": 4500
+    }
+]

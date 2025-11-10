@@ -1,0 +1,56 @@
+[
+    {
+        "employee_id": "e101",
+        "pay_period": "2025-10",
+        "gross_pay": 100000,
+        "net_pay": 64800
+    },
+    {
+        "employee_id": "e101",
+        "pay_period": "2025-09",
+        "gross_pay": 100000,
+        "net_pay": 64800
+    },
+    {
+        "employee_id": "e101",
+        "pay_period": "2025-08",
+        "gross_pay": 100000,
+        "net_pay": 64800
+    },
+    {
+        "employee_id": "e101",
+        "pay_period": "2025-07",
+        "gross_pay": 100000,
+        "net_pay": 64800
+    },
+    {
+        "employee_id": "e101",
+        "pay_period": "2025-06",
+        "gross_pay": 100000,
+        "net_pay": 64800
+    },
+    {
+        "employee_id": "e101",
+        "pay_period": "2025-05",
+        "gross_pay": 100000,
+        "net_pay": 64800
+    },
+    {
+        "employee_id": "e102",
+        "pay_period": "2025-10",
+        "gross_pay": 90000,
+        "net_pay": 71200
+    },
+    {
+        "employee_id": "e102",
+        "pay_period": "2025-09",
+        "gross_pay": 90000,
+        "net_pay": 71200
+    },
+    {
+        "employee_id": "e103",
+        "pay_period": "2025-10",
+        "gross_pay": 93000,
+        "net_pay": 73200
+    }
+]

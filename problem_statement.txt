@@ -1,0 +1,29 @@
+Full Stack Coding Test Plan
+
+*Objective:*  
+Demonstrate your ability to design and build core features for a compensation platform, leveraging AI coding assistants to boost productivity and quality.
+
+*Tasks:*
+
+1.⁠ ⁠*Build Payroll CRUD API*
+   - Develop a REST API to perform create/read/update/delete operations for employee payroll (fields: employee_id, name, department, salary, bonus, deductions).
+   - Implement validation, error handling, and write unit/integration tests.
+   - Note in your submission which sections were completed with AI assistance.
+
+2.⁠ ⁠*Gross-to-Net Pay Calculation*
+   - Extend your project to calculate net pay from gross salary (using deduction rules: tax percent, social security percent).
+   - Use AI to suggest edge cases and help write code/formulas when appropriate.
+   - Include two sample requests and their responses.
+
+3.⁠ ⁠*Payroll Anomaly Detection*
+   - Write a script or API endpoint that detects anomalies in the payroll data (for example, excessive deductions or unusual salary levels).
+   - Utilize AI for query ideas, detection strategies, and code.
+
+4.⁠ ⁠*Implement Secure Authentication*
+   - Mock a login/auth flow (JWT, OAuth, or local authentication).
+   - Ask your AI assistant for common security pitfalls and recommended practices, then implement improvements.
+   - Demonstrate admin vs. employee access.
+
+5.⁠ ⁠*Developer Documentation*
+   - Document your use of AI tools, listing prompts, code suggestions, and decisions influenced by AI.
+   - Include a README and clear setup instructions.
